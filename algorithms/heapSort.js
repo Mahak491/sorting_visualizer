@@ -1,5 +1,3 @@
-//TO:DO fix the colors in heapify
-
 async function heapSort(arr, n) {
     // Build heap (rearrange array)
     for (var i = n / 2 - 1; i >= 0; i--) {
