@@ -1,5 +1,10 @@
 # sorting_visualizer
- Bubble sort, Heap sort, Insertion sort, quick sort, merge sort and selection sort are used in this sorting visualizer where it is used to sort the given array
+
+•Built with HTML, CSS and JavaScript.
+•A Web-APP where sorting alogrithms are implemented.
+•Algorithms like Heap sort, Quick sort, Bubble sort, Insertion sort, Selection sort and Merge sort are demonstrated
+which sort the randomly generated array.
+
  
  
  Sorting Visualizer Website => https://visualizerrrsorting.netlify.app/
